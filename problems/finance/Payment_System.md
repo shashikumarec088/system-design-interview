@@ -96,6 +96,9 @@
         | seller_info | string | | |
         | credit_card_info | string | | |
         | is_payment_done | boolean | | |
+
+- ** question**
+  - how multiple sellers' info is stored in the payment event table
         
    - Table 2: Payment order
       - Description
